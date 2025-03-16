@@ -5,7 +5,7 @@ const router = Router();
 
 // Array of API keys for rotation
 const apiKeys = [
-  "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",
+  "gsk_AojB2O7QVOE4OSbulX8vWGdyb35u4OPwhtKc2Vo6DbLO",
   // Add more keys as needed
 ];
 
